@@ -6,6 +6,7 @@ assetsnffrgf-a.akamaihd.net
 dan124.com
 jw-cdn.org
 jwpub.org
+jw-api.org
 mt1016.com
 pr2711.com
 pr418.com
